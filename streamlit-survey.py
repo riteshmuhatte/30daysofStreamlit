@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.header("Experimenting Survey Using Streamlit")
+st.header("Experimenting Streamlit")
 st.text_input("Name:")
 st.write("Have you watched the Day to Day Productivity video ??")
 watched = st.radio("watched_st", options=["NA", "Yes", "No"], horizontal=True,label_visibility="collapsed")
