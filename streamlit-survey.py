@@ -25,4 +25,4 @@ elif watched == "No":
   st.write("Bhagwan apka bhala kare !")
 
 json = survey.to_json()
-st.json(json)
+#st.json(json)
