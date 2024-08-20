@@ -9,7 +9,7 @@ if watched == "Yes":
  st.write("Congratulations on the progress!!!")
  st.write("What do you think about the topics that were discussed?")
  st.select_slider(
-    "Scale:", options=["Super Boring", "Boring", "Meh!!", "Good", "Awesome", "Very Awesome"],
+    "Scale:", options=["Super Boring", "Boring", "MeHHHH!!", "Good", "Awesome", "Very Awesome"],
     label_visibility="collapsed"
  )
 elif watched == "No":
